@@ -1,4 +1,4 @@
-### Hi I'm Mujahid Atar 👋🏻😄
+### Hi I'm Mujahid Atar<div class="text-blue mb-2"> 👋🏻😄
 
 - 2020 Batch Pass-out – Electronics and Telecommunication Engineering 👨🏻‍🎓.
 -	Looking for internship and job opportunities 🤗.
