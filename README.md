@@ -5,18 +5,18 @@
 -	Currently I’m learning and working on Deep Learning, NLP and Computer vision📍.
 -	National Finalist and Awardee in eYantra Robotics Competition 🏆.
 
-Technical Skills
+### Technical Skills
   -	Image Processing
   -	Machine Learning
   -	Robotics
   -	IoT
   -	PCB Designing
-Tools
+### Tools
   -	OpenCV
   -	Anaconda
   -	Tensorflow
   -	Tkinter GUI
-Brain
+### Brain
   -	Raspberry Pi
   -	Arduino
 
