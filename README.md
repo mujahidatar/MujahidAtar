@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi I'm Mujahid Atar 👋🏻😄
 
-<!--
-**mujahidatar/MujahidAtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	2020 Batch Pass-out – Electronics and Telecommunication Engineering 👨🏻‍🎓
+	Looking for internship and job opportunities 🤗
+	Currently I’m learning and working on Deep Learning, NLP and Computer vision📍
+	National Finalist and Awardee in eYantra Robotics Competition 🏆
 
-Here are some ideas to get you started:
+Technical Skills
+•	Image Processing
+•	Machine Learning
+•	Robotics
+•	IoT
+•	PCB Designing
+Tools
+•	OpenCV
+•	Anaconda
+•	Tensorflow
+•	Tkinter GUI
+Brain
+•	Raspberry Pi
+•	Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
