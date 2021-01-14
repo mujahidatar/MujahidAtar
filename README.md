@@ -1,4 +1,4 @@
-### Hi I'm <div class="Mujahid Atar-blue mb-2"> 👋🏻😄
+### Hi I'm Mujahid Atar.text-blue on white👋🏻😄
 
 - 2020 Batch Pass-out – Electronics and Telecommunication Engineering 👨🏻‍🎓.
 -	Looking for internship and job opportunities 🤗.
