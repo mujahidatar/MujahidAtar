@@ -1,7 +1,5 @@
-### Hi I'm Mujahid Atar👋🏻😄
-<div class="text-blue mb-2">
-  .text-blue on white
-</div>
+### Hi I'm [Mujahid Atar](https://www.linkedin.com/in/mujahid-atar/)👋🏻😄
+
 
 - 2020 Batch Pass-out – Electronics and Telecommunication Engineering 👨🏻‍🎓.
 -	Looking for internship and job opportunities 🤗.
