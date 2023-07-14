@@ -2,23 +2,21 @@
 
 
 - 2020 Batch Pass-out – Electronics and Telecommunication Engineering 👨🏻‍🎓.
--	Looking for internship and job opportunities 🤗.
--	Currently I’m learning and working on Deep Learning, NLP and Computer vision📍.
--	National Finalist and Awardee in eYantra Robotics Competition 🏆.
-
+- National Finalist and Awardee in eYantra Robotics Competition 🏆.
+- Ex-Employee of Infosys Private Limited.
+-	Looking for job opportunities 🤗.
+-	Currently I'm pursuing post graduation diploma in advance computing from CDAC Pune📍.
 ### Technical Skills
-  -	Image Processing
-  -	Machine Learning
-  -	Robotics
-  -	IoT
-  -	PCB Designing
+  -	HTML | CSS | Javascript
+  -	Spring | Spring Boot
+  -	React.js | Node.js
+  -	Data Structure and Algorithms
+  -	MySQL | MongoDB
 ### Tools
-  -	OpenCV
-  -	Anaconda
-  -	Tensorflow
-  -	Tkinter GUI
-### Brain
-  -	Raspberry Pi
-  -	Arduino
+  -	Eclipse
+  -	MySQL Workbench
+  -	MongoDB Compass
+  -	Visual Studio | Visual Studio Code
+  -	Postman
 
 
